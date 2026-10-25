@@ -1,0 +1,19 @@
+# Secrets: NEVER upload these to GitHub
+.streamlit/secrets.toml
+.env
+
+# Log data
+data/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Test cache
+.pytest_cache/

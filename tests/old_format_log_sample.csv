@@ -1,0 +1,10 @@
+timestamp,enquiry,category,urgency,summary,reply
+2026-10-25 01:16:46,"Hello, I would like to book an appointment with a general physician next week, preferably in the evening. Please tell me the available slots.",Appointment,Low,The patient wants to schedule an evening appointment with a general physician for next week.,"Dear Patient,
+
+Thank you for reaching out to us. We have received your request to schedule an evening appointment with a general physician for next week. 
+
+Our team is currently reviewing the schedule and will contact you shortly to confirm the available options. If you have any specific days that suit you best, please feel free to let us know.
+
+Warm regards,
+
+ClinicAssist Demo Clinic Team"
